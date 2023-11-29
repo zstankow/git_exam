@@ -1,0 +1,3 @@
+/output
+output/*.txt
+# We have the .sh bash file that contains the grep commands and the bash commands for creating the files. If we run ./text_ops.sh then it will create the output directory and the .txt files.  
